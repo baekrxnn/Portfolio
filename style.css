@@ -9,6 +9,10 @@
 
 .row.contact {
     background-color: #44a8c5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
 }
 
 .row.footer {
@@ -33,6 +37,7 @@
     margin: 0;
     padding: 10px;
 }
+
 .aboutme{
     /*border:1px solid #105a92;*/
     background-color: #54d0ba;
@@ -65,6 +70,10 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+.nav a:hover {
     color: #44a8c5;
+}
+
+.contact a:hover {
+    color: #105a92;
 }
