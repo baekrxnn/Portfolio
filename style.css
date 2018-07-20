@@ -77,3 +77,10 @@ a {
 .contact a:hover {
     color: #105a92;
 }
+
+#aboutPic {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 50%;
+}
