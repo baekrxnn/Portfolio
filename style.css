@@ -1,9 +1,14 @@
+/*body {
+    height: 100vw;
+    width:100vw;
+}*/
+
 .row{   
     display: flex;
     flex-wrap: wrap;
     background-color:#54d0ba;
     color:white;
-    font-size:20px;
+    font-size:28px;
     justify-content: space-around;
 }
 
@@ -47,8 +52,11 @@
     background-color: #54d0ba;
     margin: 0;
     padding:10px;
-    
+    font-size:24px;
+    color:white;
 }
+
+
 
 h1 {
     font-family: 'Gaegu', cursive;
