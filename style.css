@@ -109,10 +109,15 @@ a {
     color:white;
     text-align: center;
     font-size:24px;
+    /*font-weight: bold; */
     letter-spacing: 2px;
     padding: 15px;
 }
 
 .projects a:hover {
     color: crimson;
+}
+
+.proj {
+    margin-top: 10px;
 }
