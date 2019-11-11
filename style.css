@@ -46,10 +46,12 @@ body {
 
 .aboutMeDiv {
     display: flex;
+    background-color: #54d0ba
 }
 
 .aboutme{
     /*border:1px solid #105a92;*/
+    width: 50%;
     background-color: #54d0ba;
     margin: 0;
     padding:10px;
@@ -57,7 +59,10 @@ body {
     color:white;
 }
 
-
+.right {
+    width: 50%;
+    background-color: rgb(41, 143, 226);
+}
 
 h1 {
     font-family: 'Gaegu', cursive;
@@ -95,11 +100,12 @@ a {
     color: #105a92;
 }
 
-#aboutPic {
+.aboutPic {
     display: flex;
-    flex-wrap: wrap;
-    width: 50%;
-    height: 50%;
+    flex-direction: row;
+    justify-content: center;
+    width: 10px;
+    height: 40px;
 }
 
 .projects {
