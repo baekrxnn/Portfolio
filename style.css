@@ -2,6 +2,7 @@ body {
     /*height:100%;
     width:100%; */ 
     margin:0px;
+    background-color: #105a92;
 }
 
 .row{   
@@ -11,6 +12,7 @@ body {
     color:white;
     font-size:28px;
     justify-content: space-around;
+    margin:0px;
 }
 
 .row.contact {
@@ -62,6 +64,10 @@ body {
 .right {
     width: 50%;
     background-color: rgb(41, 143, 226);
+}
+
+img.pictures {
+    height: 550px;
 }
 
 h1 {
