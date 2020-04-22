@@ -114,6 +114,11 @@ a {
     height: 40px;
 }
 
+.year {
+    color: #8c7bb2;
+    margin-bottom: 0px;
+}
+
 .projects {
     display: flex;
     flex-direction: column;
@@ -131,5 +136,5 @@ a {
 }
 
 .proj {
-    margin-top: 10px;
+    margin-top: 5px;
 }
