@@ -48,6 +48,8 @@ body {
 
 .aboutMeDiv {
     display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
     background-color: #54d0ba
 }
 
@@ -115,7 +117,7 @@ a {
 }
 
 .year {
-    color: #8c7bb2;
+    color: #5d00c1;
     margin-bottom: 0px;
 }
 
