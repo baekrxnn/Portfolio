@@ -122,6 +122,10 @@ a {
     margin-bottom: 0px;
 }
 
+.nineteen {
+    border-bottom: dashed 2px;
+}
+
 .projects {
     display: flex;
     flex-direction: column;
@@ -149,4 +153,5 @@ a {
 .proj:hover p {
     display: block;
     color: black;
+    margin-top: 0px;
 }
