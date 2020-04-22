@@ -70,6 +70,7 @@ body {
 
 img.pictures {
     height: 550px;
+    float: right;
 }
 
 h1 {
