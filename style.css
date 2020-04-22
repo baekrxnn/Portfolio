@@ -152,6 +152,6 @@ a {
 
 .proj:hover p {
     display: block;
-    color: black;
+    color: darkslategray;
     margin-top: 0px;
 }
