@@ -141,3 +141,11 @@ a {
 .proj {
     margin-top: 5px;
 }
+
+.proj a p {
+    display: none;
+}
+
+.proj a:hover p {
+    display: block;
+}
